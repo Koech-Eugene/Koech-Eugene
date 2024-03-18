@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning about aspects of web development with technologies such as:<br>-HTML + CSS,<br>-JAVASCRIPT and <br>React for the Frontend
+I'm currently learning about aspects of web development with technologies such as:<br>-HTML + CSS,<br>-JAVASCRIPT and <br>React for the Frontend <br>-Python,<br>-Flask and <br>SQL for the backend
 
 
 ## 🌐 Socials:
